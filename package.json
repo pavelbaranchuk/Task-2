@@ -1,0 +1,24 @@
+{
+  "name": "webpack_app",
+  "version": "1.0.0",
+  "description": "Webpack setup sample",
+  "private": true,
+  "dependencies": {
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelbaranchuk/Task-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelbaranchuk/Task-2/issues"
+  },
+  "homepage": "https://github.com/pavelbaranchuk/Task-2#readme"
+}
